@@ -14,7 +14,7 @@
 3. is
 4. a
 5. much
-6. bettere
+6. better
 7. way
 8. to
 9. make
