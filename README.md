@@ -7,6 +7,7 @@
 [this is a link to Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ![a image](RobloxScreenShot20230102_192512964.png)
+[GitHub theme](https://pages.github.com/themes/)
 
 1. this
 2. way
@@ -28,3 +29,5 @@ this doesn't work :<
 this is for fun
 
 name new branch gh-pages allow the GitHub page to automatically set them as the webpage
+
+_config.yml new file for theme
