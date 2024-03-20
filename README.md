@@ -26,3 +26,5 @@ this doesn't work :<
 | name | random 1 | random 2 |
     
 this is for fun
+
+name new branch gh-pages allow the GitHub page to automatically set them as the webpage
