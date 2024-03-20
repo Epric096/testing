@@ -11,12 +11,14 @@
 1. this
 2. way
 3. is
-4. so
-5. good
-6. to
-7. make
-8. a
-9. list
+4. a
+5. much
+6. bettere
+7. way
+8. to
+9. make
+10. a
+11. list
 
 ---
 this doesn't work :<
